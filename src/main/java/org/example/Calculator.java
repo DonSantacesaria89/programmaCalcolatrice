@@ -72,7 +72,7 @@ public class Calculator {
         }while((!num1.equals("q")));
 
         System.out.println("\n+++CHIUSURA PROGRAMMA IN CORSO+++");
-
+        System.out.println("\n+++CIAO+++");
         scanner.close();
 
     }
